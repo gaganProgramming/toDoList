@@ -1,11 +1,44 @@
-# React + Vite
+# To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, interactive To-Do List app that allows users to keep track of tasks. Built using HTML, CSS, and JavaScript, this project enables users to add and remove tasks with ease.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
--![image](https://github.com/user-attachments/assets/41398f33-c13f-4ad0-b971-0f25803b56b1)
+Check out the live version of the project: [To-Do List](https://gaganprogramming.github.io/toDoList/)
 
-- go to npm run dev to get the local host URl
+## Features
+
+- Add new tasks
+- Remove completed tasks
+- Clean and minimal UI
+
+## Technologies Used
+
+- **HTML**: Structure of the app.
+- **CSS**: Styling for the app’s appearance.
+- **JavaScript**: Handles task addition, removal, and DOM manipulation.
+
+## How to Use
+
+1. Type a task into the input field and press Enter or click the add button to add it to the list.
+2. Click on a task to mark it as completed or remove it from the list.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gaganProgramming/toDoList.git
+   ```
+2. Open `index.html` in your preferred web browser.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue with suggestions.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+Let me know if there’s anything else you'd like to add!
