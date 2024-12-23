@@ -1,6 +1,6 @@
 # To-Do List
 
-A simple, interactive To-Do List app that allows users to keep track of tasks. Built using HTML, CSS, and JavaScript, this project enables users to add and remove tasks with ease.
+A simple, interactive To-Do List app that allows users to keep track of tasks. Built using React Vite this project enables users to add and remove tasks with ease.
 
 ## Demo
 
